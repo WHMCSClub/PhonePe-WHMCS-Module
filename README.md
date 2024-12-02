@@ -56,13 +56,13 @@ If you have any questions or need assistance, please feel free to contact us at
 1. Purchase the module from our official website [WHMCS
 Club](https://whmcsclub.com/manage/store/whmcs-modules/phonepe-whmcs-module)
 <hr>
-![PhonePe WHMCS Module]({{BASE_URL}}/assets/lib/MarkDown-Data/Images/PhonePe/PhonePe-WHMCS-Module-1.png)
+![PhonePe WHMCS Module](https://docs.whmcsclub.com/assets/lib/MarkDown-Data/Images/PhonePe/PhonePe-WHMCS-Module-1.png)
 <br>
 <br>
 If you want to get iFrame checkout option, You can select the iFrame addon while purchasing the module as below.
 <br>
 <br>
-![PhonePe WHMCS Module]({{BASE_URL}}/assets/lib/MarkDown-Data/Images/PhonePe/PhonePe-WHMCS-Module-2.png)
+![PhonePe WHMCS Module](https://docs.whmcsclub.com/assets/lib/MarkDown-Data/Images/PhonePe/PhonePe-WHMCS-Module-2.png)
 <br>
 <br>
 After purchasing the iFrame addon, you will get the single page checkout option in the PhonePe Gateway.
@@ -72,43 +72,43 @@ After purchasing the iFrame addon, you will get the single page checkout option 
 [Dashboard](https://whmcsclub.com/manage/clientarea.php?action=productdetails&id=1) page
 <hr>
 <br>
-![PhonePe WHMCS Module]({{BASE_URL}}/assets/lib/MarkDown-Data/Images/PhonePe/PhonePe-WHMCS-Module-3.png)
+![PhonePe WHMCS Module](https://docs.whmcsclub.com/assets/lib/MarkDown-Data/Images/PhonePe/PhonePe-WHMCS-Module-3.png)
 <br>
 <br>
 3. Download the module from the [Downloads](https://whmcsclub.com/manage/dl.php?type=d&id=1&serviceid=1) page
 <hr>
-![PhonePe WHMCS Module]({{BASE_URL}}/assets/lib/MarkDown-Data/Images/PhonePe/PhonePe-WHMCS-Module-4.png)
+![PhonePe WHMCS Module](https://docs.whmcsclub.com/assets/lib/MarkDown-Data/Images/PhonePe/PhonePe-WHMCS-Module-4.png)
 <br>
 <br>
 4. Upload the module in you WHMCS Root Directory.
 <hr>
-![PhonePe WHMCS Module]({{BASE_URL}}/assets/lib/MarkDown-Data/Images/PhonePe/PhonePe-WHMCS-Module-5.png)
+![PhonePe WHMCS Module](https://docs.whmcsclub.com/assets/lib/MarkDown-Data/Images/PhonePe/PhonePe-WHMCS-Module-5.png)
 <br>
 <br>
 5. Extract the downloaded zip file in you WHMCS Root Directory.
 <hr>
-![PhonePe WHMCS Module]({{BASE_URL}}/assets/lib/MarkDown-Data/Images/PhonePe/PhonePe-WHMCS-Module-6.png)
+![PhonePe WHMCS Module](https://docs.whmcsclub.com/assets/lib/MarkDown-Data/Images/PhonePe/PhonePe-WHMCS-Module-6.png)
 <br>
 <br>
 6. Check the modules files in the `modules/gateways/` directory.
 <hr>
-![PhonePe WHMCS Module]({{BASE_URL}}/assets/lib/MarkDown-Data/Images/PhonePe/PhonePe-WHMCS-Module-7.png)
+![PhonePe WHMCS Module](https://docs.whmcsclub.com/assets/lib/MarkDown-Data/Images/PhonePe/PhonePe-WHMCS-Module-7.png)
 <br>
 <br>
-![PhonePe WHMCS Module]({{BASE_URL}}/assets/lib/MarkDown-Data/Images/PhonePe/PhonePe-WHMCS-Module-8.png)
+![PhonePe WHMCS Module](https://docs.whmcsclub.com/assets/lib/MarkDown-Data/Images/PhonePe/PhonePe-WHMCS-Module-8.png)
 <br>
 <br>
-![PhonePe WHMCS Module]({{BASE_URL}}/assets/lib/MarkDown-Data/Images/PhonePe/PhonePe-WHMCS-Module-9.png)
+![PhonePe WHMCS Module](https://docs.whmcsclub.com/assets/lib/MarkDown-Data/Images/PhonePe/PhonePe-WHMCS-Module-9.png)
 <br>
 <br>
 7. After uploading the module, you can see the PhonePe Gateway in the Payment Gateways section in the Admin area.
 <hr>
-![PhonePe WHMCS Module]({{BASE_URL}}/assets/lib/MarkDown-Data/Images/PhonePe/PhonePe-WHMCS-Module-10.png)
+![PhonePe WHMCS Module](https://docs.whmcsclub.com/assets/lib/MarkDown-Data/Images/PhonePe/PhonePe-WHMCS-Module-10.png)
 <br>
 <br>
 8. Click on the Activate button to activate the module.
 <hr>
-![PhonePe WHMCS Module]({{BASE_URL}}/assets/lib/MarkDown-Data/Images/PhonePe/PhonePe-WHMCS-Module-11.png)
+![PhonePe WHMCS Module](https://docs.whmcsclub.com/assets/lib/MarkDown-Data/Images/PhonePe/PhonePe-WHMCS-Module-11.png)
 <br>
 <br>
 9. Set the configuration.
@@ -122,6 +122,6 @@ After purchasing the iFrame addon, you will get the single page checkout option 
 contact us to enable it.
 - `Email ID` Your Email ID used while purchasing the module.
 <hr>
-![PhonePe WHMCS Module]({{BASE_URL}}/assets/lib/MarkDown-Data/Images/PhonePe/PhonePe-WHMCS-Module-12.png)
+![PhonePe WHMCS Module](https://docs.whmcsclub.com/assets/lib/MarkDown-Data/Images/PhonePe/PhonePe-WHMCS-Module-12.png)
 <br>
 <br>
