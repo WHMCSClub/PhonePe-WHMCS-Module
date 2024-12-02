@@ -1,4 +1,4 @@
-### PhonePe WHMCS Module
+# PhonePe WHMCS Module
 <hr>
 #### Introduction
 <p style="max-width: 700px;">
@@ -7,7 +7,7 @@
     merchants and customers, enhancing the overall efficiency of your online business operations.
 </p>
 
-##### Features
+### Features
 
 - Secure and efficient payment processing
 - Easy integration with WHMCS
